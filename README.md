@@ -1,4 +1,10 @@
 # Software_Engineering_Group_6
 
-James Love 
-Cicely Marks
+
+<ul>
+    <li>James Love</li>
+    <li>Cicely Marks</li>`
+</ul>
+
+
+
