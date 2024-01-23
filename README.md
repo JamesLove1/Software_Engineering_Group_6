@@ -1,5 +1,9 @@
 # Software_Engineering_Group_6
 
+
+
+
+<h2>Group Members</h2>
 <table>
     <thead>
         <th>Name</th>
@@ -36,7 +40,7 @@
 
 ## Game Ideas
 
-| Game Name | URL |
+| Name | URL |
 | -------- | -------- |
 | Snake| https://en.wikipedia.org/wiki/Snake_(video_game_genre)   |
 | Brick Breaker| https://en.wikipedia.org/wiki/Brick_Breaker   |
