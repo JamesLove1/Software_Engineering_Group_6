@@ -1,6 +1,7 @@
 # Software_Engineering_Group_6
 
 
+[[_TOC_]]
 
 
 <h2>Group Members</h2>
@@ -38,8 +39,8 @@
 </table>
 
 
-## Game Ideas
 
+## Game Ideas
 | Name | URL | Sutibility / Intrest / Ranking|
 | -------- | -------- | -------- |
 | Snake| https://en.wikipedia.org/wiki/Snake_(video_game_genre)   |
