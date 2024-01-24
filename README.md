@@ -45,4 +45,5 @@
 | Snake| https://en.wikipedia.org/wiki/Snake_(video_game_genre)   |
 | Brick Breaker| https://en.wikipedia.org/wiki/Brick_Breaker   |
 | Flappy Bird| https://en.wikipedia.org/wiki/Flappy_Bird  |
+| Tile-matching video game| https://en.wikipedia.org/wiki/Tile-matching_video_game  |
 | Game_Name / Row_template   | URL_placeholder  |
