@@ -1,10 +1,10 @@
 # Software_Engineering_Group_6
 
+## Table of Contents  
+- [Group Members](#group-members)
+- [Game Ideas](#game-ideas)
 
-[[_TOC_]]
-
-
-<h2>Group Members</h2>
+## Group Members
 <table>
     <thead>
         <th>Name</th>
