@@ -40,8 +40,8 @@
 
 ## Game Ideas
 
-| Name | URL |
-| -------- | -------- |
+| Name | URL | Sutibility / Intrest / Ranking|
+| -------- | -------- | -------- |
 | Snake| https://en.wikipedia.org/wiki/Snake_(video_game_genre)   |
 | Brick Breaker| https://en.wikipedia.org/wiki/Brick_Breaker   |
 | Flappy Bird| https://en.wikipedia.org/wiki/Flappy_Bird  |
