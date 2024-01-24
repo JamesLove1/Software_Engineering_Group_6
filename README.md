@@ -46,6 +46,7 @@
 | Brick Breaker| https://en.wikipedia.org/wiki/Brick_Breaker   |
 | Flappy Bird| https://en.wikipedia.org/wiki/Flappy_Bird  |
 | Bejeweled| https://en.wikipedia.org/wiki/Bejeweled  |
+| Zuma| https://en.wikipedia.org/wiki/Zuma_(video_game)  |
 | Deemo| https://en.wikipedia.org/wiki/Deemo  |
 | Kingdom Rush| https://en.wikipedia.org/wiki/Kingdom_Rush  |
 | Game_Name / Row_template   | URL_placeholder  |
