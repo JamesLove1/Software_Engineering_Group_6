@@ -50,4 +50,6 @@
 | Zuma| https://en.wikipedia.org/wiki/Zuma_(video_game)  |
 | Deemo| https://en.wikipedia.org/wiki/Deemo  |
 | Kingdom Rush| https://en.wikipedia.org/wiki/Kingdom_Rush  |
-| Game_Name / Row_template   | URL_placeholder  |
+| Super Mario| https://en.wikipedia.org/wiki/Super_Mario_Bros.  |
+| Tetris| https://en.wikipedia.org/wiki/Tetris  |
+| Angry Birds| https://en.wikipedia.org/wiki/Angry_Birds_(video_game)  |
