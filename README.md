@@ -3,6 +3,7 @@
 ## Table of Contents  
 - [Group Members](#group-members)
 - [Game Ideas](#game-ideas)
+- [Team Photo](#team-photo)
 
 ## Team Photo
 comming soon 
