@@ -4,6 +4,9 @@
 - [Group Members](#group-members)
 - [Game Ideas](#game-ideas)
 
+## Team Photo
+comming soon 
+
 ## Group Members
 <table>
     <thead>
