@@ -1,6 +1,9 @@
 # Software_Engineering_Group_6
 https://github.com/UoB-COMSM0110/2024-group-6
 
+do not edit here data has been moved over to the new repo URL above. 
+
+
 ## Table of Contents  
 - [Group Members](#group-members)
 - [Game Ideas](#game-ideas)
